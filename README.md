@@ -46,10 +46,11 @@ Given below is the result on actual images taken from the test set provided in t
 
 Actual Image :
 
-C:\Users\MAYANK MONANI\CSRNet-keras\test_images\IMG_105.jpg
+<img src="https://github.com/mayankmonani7/Alpha_AI-Task/blob/master/test_images/IMG_105.jpg" width= "480">
 
 Generated Density Map :
-C:\Users\MAYANK MONANI\CSRNet-keras\results\105.jpg
+
+
 
 Actual Count : 258
 
@@ -71,6 +72,6 @@ Given below is comparison between the MAE error produced by our model.
 3. Scipy : 1.1.0
 4. Numpy : 1.14.3
 5. Pillow(PIL) : 5.1.0
-6. # OpenCV : 3.4.1
+6. OpenCV : 3.4.1
 
 # Alpha_AI-Task
