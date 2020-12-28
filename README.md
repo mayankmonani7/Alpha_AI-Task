@@ -71,4 +71,6 @@ Given below is comparison between the MAE error produced by our model.
 3. Scipy : 1.1.0
 4. Numpy : 1.14.3
 5. Pillow(PIL) : 5.1.0
-6. OpenCV : 3.4.1
+6. # OpenCV : 3.4.1
+
+# Alpha_AI-Task
